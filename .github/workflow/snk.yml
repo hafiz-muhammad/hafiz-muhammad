@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: hafiz-muhammad
-          svg_out_path: https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
