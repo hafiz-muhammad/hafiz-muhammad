@@ -12,7 +12,7 @@
  <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
  <a href="https://getfedora.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png" height="50">
  <a href="https://www.linuxfoundation.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" height="50">
- <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GitHub-Mark-120px-plus.png" height="50">
+ <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png" height="50">
  <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Firefox.png" height="50">
  <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png"height="50">
   <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png"height="50">
