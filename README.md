@@ -18,8 +18,8 @@
  <a href="https://help.gnome.org/users/gnome-terminal/stable/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Terminal.png" height="50">
  <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png" height="50">
  <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Firefox.png" height="50">
- <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png"height="50">
- <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png"height="50">
+ <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png" height="50">
+ <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png" height="50">
 </p>
 
 <hr>
@@ -27,11 +27,15 @@
 <h2 align="center"> 📊 My GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=nord" width="500">
-</p>                 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact&theme=nord">
+</p>
+ 
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord">
+</p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord" width="500">
+ <img src="https://activity-graph.herokuapp.com/graph?username=hafiz-muhammad&theme=nord">
 </p>
 
 <hr>
