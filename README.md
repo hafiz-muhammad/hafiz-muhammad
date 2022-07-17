@@ -41,5 +41,5 @@
 <hr>
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hafiz-muhammad??style=for-the-badge&logo=appveyor">
+  <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&label=Profile+views&color=blue">
 </div>  
