@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2 align="center"> 🔧 Technologies & Tools </h2>
+<h2 align="center"> 🛠️ Technologies & Tools </h2>
 
 <p align="center">
  <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
