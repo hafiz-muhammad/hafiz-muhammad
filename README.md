@@ -1,19 +1,26 @@
 <h1 align="center"> Hi there <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/gifs/wave.gif" width="40">, I'm Hafiz! </h1> 
 
-<hr>
-
-<h2>What I use... </h2>
-
 <p align="center">
- <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <a href="https://getfedora.org/"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
- <a href="https://www.linuxfoundation.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
- <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
- <a href="https://brave.com/"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
+ <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g" width="300">
 </p>
 
 <hr>
+
+<h2 align="center"> 🔧 Technologies & Tools </h2>
+
+<p align="center">
+ <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
+ <a href="https://getfedora.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png" height="50">
+ <a href="https://www.linuxfoundation.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" height="50">
+ <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GitHub-Mark-120px-plus.png" height="50">
+ <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Firefox.png" height="50">
+ <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png"height="50">
+  <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png"height="50">
+</p>
+
+<hr>
+  
+<h2 align="center"> 📊 My GitHub Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=nord" width="500">
