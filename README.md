@@ -16,11 +16,11 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=nord" width="700">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=nord" width="500">
 </p>                 
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord" width="700">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord" width="500">
 </p>
 
 <hr>
