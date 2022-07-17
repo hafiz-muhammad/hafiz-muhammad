@@ -11,6 +11,7 @@
 <p align="center">
  <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
  <a href="https://getfedora.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png" height="50">
+ <a href="https://www.raspberrypi.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Raspberry-Pi.png" height="50">
  <a href="https://www.linuxfoundation.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" height="50">
  <a href="https://help.gnome.org/users/gnome-terminal/stable/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Terminal.png" height="50">
  <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png" height="50">
