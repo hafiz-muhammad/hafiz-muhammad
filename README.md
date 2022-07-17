@@ -38,9 +38,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/github-contribution-grid-snake.svg">
-</p>
 
 <hr>
 
