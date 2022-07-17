@@ -1,5 +1,9 @@
 <h1 align="center"> Hi there <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/gifs/wave.gif" width="40">, I'm Hafiz! </h1> 
 
+<!-- <p align="center">
+ <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117fa7a5e9554c9e1f8929fff059b804e70e738fb9&rid=giphy.gif&ct=g" width="250">
+</p> -->
+
 <hr>
 
 <h2>What I use... </h2>
@@ -16,7 +20,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact&theme=nord">
 </p>                 
 
 <hr>
