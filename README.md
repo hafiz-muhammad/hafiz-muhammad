@@ -1,6 +1,4 @@
-<h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&background=2E3440&center=true&vCenter=true&width=1000&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&background=2E3440&center=true&vCenter=true&width=1000&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
 
 <p align="center">
  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g" width="300">
