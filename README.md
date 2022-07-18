@@ -2,13 +2,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&center=true&vCenter=true&width=1100&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
 
-<p align="center">
-   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g" width="300">
-</p>
-
 <hr>
 
-<h2 align="center"> 🌱 I’m currently learning </h2>
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g" width="500">
+
+<h2 align="left"> 🌱 I’m currently learning </h2>
 
 <p align="center">
    <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
@@ -18,7 +16,7 @@
 
 <hr>
 
-<h2 align="center"> 🛠️ Languages & Tools </h2>
+<h2 align="left"> 🛠️ Languages & Tools </h2>
 
 <p align="center">
    <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
