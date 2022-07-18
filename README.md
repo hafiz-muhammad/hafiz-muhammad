@@ -16,6 +16,8 @@
    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/CSS.png" height="50">
 </p>
 
+<hr>
+
 <h2 align="center"> 🛠️ Languages & Tools </h2>
 
 <p align="center">
