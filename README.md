@@ -24,7 +24,7 @@
    <a href="https://www.w3.org/TR/CSS/#css"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/CSS.png" height="50">
    <a href="https://getfedora.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png" height="50">
    <a href="https://www.raspberrypi.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Raspberry-Pi.png" height="50">
-   <a href="https://www.linuxfoundation.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" height="50">
+   <a href="https://www.kernel.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" height="50">
    <a href="https://wiki.gnome.org/Apps/Terminal"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Terminal.png" height="50">
    <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png" height="50">
    <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png" height="50">
