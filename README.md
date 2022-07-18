@@ -41,9 +41,11 @@
  <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-<hr>
+
 
 <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-bottom.svg">
+
+<hr>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&label=Profile+views&color=blue">
