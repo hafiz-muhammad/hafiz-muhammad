@@ -26,7 +26,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact&hide_border=true&theme=nord" height="180em">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&hide_border=true&theme=nord" height="180em">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&layout=compact&hide_border=true&theme=nord" height="180em">
 </p>
 
 <p align="center">
