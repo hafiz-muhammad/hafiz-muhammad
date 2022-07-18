@@ -1,3 +1,5 @@
+<img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-top.svg">
+
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&background=2E3440&center=true&vCenter=true&width=1000&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
 
 <p align="center">
@@ -43,4 +45,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&label=Profile+views&color=blue">
-</div>  
+</div> 
+
+<img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-bottom.svg">
