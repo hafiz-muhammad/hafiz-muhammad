@@ -6,7 +6,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g" width="500">
 
-<h2 align="left"> 🌱 I’m currently learning </h2>
+<h2 align="center"> 🌱 I’m currently learning </h2>
 
 <p align="center">
    <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
@@ -16,7 +16,7 @@
 
 <hr>
 
-<h2 align="left"> 🛠️ Languages & Tools </h2>
+<h2 align="center"> 🛠️ Languages & Tools </h2>
 
 <p align="center">
    <a href="https://www.python.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" height="50">
