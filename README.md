@@ -25,11 +25,13 @@
    <a href="https://getfedora.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png" height="50">
    <a href="https://www.raspberrypi.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Raspberry-Pi.png" height="50">
    <a href="https://www.linuxfoundation.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" height="50">
-   <a href="https://help.gnome.org/users/gnome-terminal/stable/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Terminal.png" height="50">
+   <a href="https://wiki.gnome.org/Apps/Terminal"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Terminal.png" height="50">
    <a href="https://github.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png" height="50">
-   <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Firefox.png" height="50">
-   <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png" height="50">
    <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png" height="50">
+   <a href="https://www.virtualbox.org/g"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VirtualBox.png" height="50">
+   <a href="https://wiki.gnome.org/Apps/Boxes"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Boxes.png" height="50">
+   <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Firefox.png" height="50">
+   <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png" height="50"> 
    <a href="https://www.gimp.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GIMP.png" height="50">
 </p>
 
