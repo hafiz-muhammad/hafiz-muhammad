@@ -61,5 +61,5 @@
 <hr>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&label=Profile+views&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&style=flat&label=Profile+views&color=blue">
 </div> 
