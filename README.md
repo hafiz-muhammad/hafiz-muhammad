@@ -43,8 +43,8 @@
 
 <hr>
 
+<img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-bottom.svg">
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&label=Profile+views&color=blue">
 </div> 
-
-<img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-bottom.svg">
