@@ -54,8 +54,6 @@
    <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-
-
 <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-bottom.svg">
 
 <hr>
