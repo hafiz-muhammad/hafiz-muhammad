@@ -40,8 +40,8 @@
 <h2 align="center"> 📊 My GitHub Statistics </h2>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz-muhammad&hide_border=true&theme=nord" height="180em">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&layout=compact&hide_border=true&theme=nord" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="180em">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact&langs_count=8&theme=nord" height="180em">
 </p>
 
 <p align="center">
