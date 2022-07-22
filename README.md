@@ -44,6 +44,8 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact&langs_count=8&theme=nord" height="180em">
 </p>
 
+<hr>
+
 <p align="center">
    <img src="https://activity-graph.herokuapp.com/graph?username=hafiz-muhammad&hide_border=true&theme=nord">
 </p>
