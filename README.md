@@ -30,6 +30,7 @@
    <a href="https://vscodium.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png" height="50">
    <a href="https://www.virtualbox.org/g"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VirtualBox.png" height="50">
    <a href="https://wiki.gnome.org/Apps/Boxes"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Boxes.png" height="50">
+   <a href="https://syncthing.net/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Syncthing.png" height="50">
    <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Firefox.png" height="50">
    <a href="https://brave.com/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Brave.png" height="50"> 
    <a href="https://www.gimp.org/"><img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GIMP.png" height="50">
