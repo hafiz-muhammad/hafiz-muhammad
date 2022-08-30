@@ -1,5 +1,3 @@
-<img align="center" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-top.svg">
-
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&background=2e3440&center=true&vCenter=true&center=true&vCenter=true&width=1100&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
 
 <hr>
