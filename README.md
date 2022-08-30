@@ -44,9 +44,9 @@
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8">
-  <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark">
-  <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark">
+  <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8">
+  <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark">
+  <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark">
 </div>
 <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=hafiz-muhammad&hide_border=true&theme=nord">
