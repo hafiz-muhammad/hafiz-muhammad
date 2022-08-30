@@ -33,24 +33,35 @@
 </p>
 
 <hr>
-  
-<h2 align="center"> 📊 My GitHub Statistics </h2>
+
+<h2 align="center"> 🔎 Profile Details</h2>
+<p align="center">
+  <img heigth="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-muhammad&theme=nord_dark">
+</p>
+
+<h2 align="center"> 📊 GitHub Statistics </h2>
 <p align="center">
 <div align=center>
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true">
-  <img width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafiz-muhammad&layout=compact&langs_count=8&theme=nord&hide_border=true">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8">
+  <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark">
+  <img width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark">
 </div>
 <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=hafiz-muhammad&hide_border=true&theme=nord">
 </p>
+
+<h2 align="center"> 🏆 Achievements </h2>
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord">
+</p> 
 
 <hr>
 
 <p align="center">
    <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/output/github-contribution-grid-snake.svg">
 </p>
-
-<img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/svg-files/wave-bottom.svg">
 
 <hr>
 
