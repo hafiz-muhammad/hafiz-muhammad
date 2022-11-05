@@ -2,7 +2,7 @@
 
 <hr> 
 
-<img align="right" width="500" height="320" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g">
+<img align="center" width="500" height="320" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g">
 
 <h2 align="center">🌱 I’m Currently Learning</h2>
 <p align="center"> 
