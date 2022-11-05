@@ -2,7 +2,7 @@
 
 <hr> 
 
-<img align="right" width="400" height="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g">
+<img align="right" height="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g">
 
 <h2 align="center">🌱 I’m Currently Learning</h2>
 <p align="center"> 
@@ -24,11 +24,6 @@
 <a href="https://wiki.gnome.org/Apps/Terminal"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Terminal.png">
 <a href="https://github.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png">
 <a href="https://vscodium.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png">
-<a href="https://www.virtualbox.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VirtualBox.png">
-<a href="https://wiki.gnome.org/Apps/Boxes"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GNOME-Boxes.png">
-<a href="https://syncthing.net/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Syncthing.png">
-<a href="https://www.gimp.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/GIMP.png">
-</p>
 
 <hr>
 
