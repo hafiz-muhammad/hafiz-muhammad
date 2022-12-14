@@ -40,7 +40,7 @@
 <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark">
 </div> 
 <br> 
-<img src="https://activity-graph.herokuapp.com/graph?username=hafiz-muhammad&hide_border=true&theme=nord"><img src="profile-3d-contrib/profile-green-animate.svg">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord"><img src="profile-3d-contrib/profile-green-animate.svg">
 </p>
 
 <h2 align="center">🏆 Achievements</h2>
