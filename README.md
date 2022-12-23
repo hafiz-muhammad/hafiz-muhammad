@@ -21,7 +21,7 @@
 <a href="https://getfedora.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png">
 <a href="https://www.raspberrypi.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Raspberry-Pi.png">
 <a href="https://www.kernel.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png">
-<a href="https://alacritty.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/alacritty.png">
+<a href="https://alacritty.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Alacritty.png">
 <a href="https://github.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png">
 <a href="https://vscodium.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png">
 
