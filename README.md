@@ -14,7 +14,7 @@
 <hr>
 
 <h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
+<p align="left">
 <a href="https://www.python.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png">
 <a href="https://html.spec.whatwg.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/HTML5.png">
 <a href="https://www.w3.org/TR/CSS/#css"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/CSS.png">
