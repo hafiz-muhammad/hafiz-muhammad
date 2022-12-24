@@ -24,6 +24,7 @@
 <a href="https://alacritty.org/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Alacritty.png">
 <a href="https://github.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png">
 <a href="https://vscodium.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png">
+<a href="https://helix-editor.com/"><img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Helix.png">
 
 <hr>
 
