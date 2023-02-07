@@ -95,7 +95,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord" alt="Stat Trophies">
 </p>
 
-<hr>
+<!-- <hr> -->
 
 <!-- <h2 align="center">Gists</h2> -->
 
