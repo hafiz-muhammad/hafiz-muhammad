@@ -107,9 +107,9 @@
 
 <hr>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/output/github-contribution-grid-snake.svg" alt="snk">
-</p>
+</p> -->
     
 <hr>
     
