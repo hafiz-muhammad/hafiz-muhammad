@@ -99,17 +99,17 @@
 
 <h2 align="center">Gists</h2>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://gist.github.com/hafiz-muhammad">
     <img src="https://gists-readme.yizack.com/api?user=hafiz-muhammad&title=My+Gists&n=30" alt="Gist List Card">
   </a>
-</p>
+</p> -->
 
 <hr>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/output/github-contribution-grid-snake.svg" alt="snk">
-</p> -->
+</p>
     
 <hr>
     
