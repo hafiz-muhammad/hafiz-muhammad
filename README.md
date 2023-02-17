@@ -111,8 +111,10 @@
   <img src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/output/github-contribution-grid-snake.svg" alt="snk">
 </p>
     
-<hr>
-    
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C566A&height=120&section=footer" alt="capsule render">
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&style=for-the-badge&label=Profile+views&color=blue" alt="Profile Views">
 </div>
