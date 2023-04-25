@@ -24,7 +24,7 @@
     
 <h2 align="center">🛠️ Languages & Tools</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/">
     <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" alt="Python">
   </a>
