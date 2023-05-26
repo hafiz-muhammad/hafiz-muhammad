@@ -85,7 +85,7 @@
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Repo Card">
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord" alt="Activity Graph">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib">
 </p>
 
