@@ -83,16 +83,11 @@
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8" alt="Commit Card">
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Commit Card">
     <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Repo Card">
+    <img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord&column=7" alt="Stat Trophies">
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord" alt="Activity Graph">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib">
-</p>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord" alt="Stat Trophies">
 </p>
 
 <!-- <hr> -->
