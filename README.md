@@ -80,9 +80,9 @@
   <div align=center>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Card">
     <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats Card">
-    <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8" alt="Commit Card">
-    <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Commit Card">
-    <img width="250" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Repo Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8" alt="Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Repo Card">
     <img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord&column=7" alt="Stat Trophies">
   </div>
   <br>
