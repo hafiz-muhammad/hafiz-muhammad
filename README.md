@@ -88,15 +88,15 @@
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib">
 </p>
 
-<!-- <hr> -->
+<hr>
 
-<!-- <h2 align="center">Gists</h2> -->
+<h2 align="center">Gists</h2>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://gist.github.com/hafiz-muhammad">
     <img src="https://gists-readme.yizack.com/api?user=hafiz-muhammad&title=My+Gists&n=30" alt="Gist List Card">
   </a>
-</p> -->
+</p>
 
 <hr>
 
