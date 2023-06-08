@@ -2,14 +2,6 @@
 
 <hr>
     
-<h2 align="center">🛠️ Languages & Tools</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,bash,linux,raspberrypi,github," />
-  </a>
-</p>
-
 <h2 align="center">🔎 Profile Details</h2>
     
 <p align="center">
@@ -31,6 +23,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord" alt="Activity Graph">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib">
 </p>
+
+<hr>
+
+<h2 align="center">💻 Technologies</h2>
+
+<div align="center">
+  
+| Category         | Technologies                                              |
+|------------------|-----------------------------------------------------------|
+| Languages        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
+| Tools            | ![VSCodium](https://img.shields.io/badge/vscodium-0078D4?style=for-the-badge&Color=white) ![Geany](https://img.shields.io/badge/geany-FFD43B?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Helix Editor](https://img.shields.io/badge/helix%20editor-20BEFF?style=for-the-badge) |
+| Terminal        | ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
+| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) |
+| Computers         | ![Lenovo Laptop](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white) ![HP Laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white) ![Dell Desktop](https://img.shields.io/badge/dell%20desktop-007DB8?style=for-the-badge&logo=dell&logoColor=white) |
+| Single-board Computers | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) |
+
+</div>
 
 <hr>
 
