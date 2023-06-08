@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C566A&height=120&section=header" alt="capsule render header">
+</div>
+
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&background=2e3440&center=true&vCenter=true&center=true&vCenter=true&width=1100&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
 
 <hr>
@@ -105,7 +109,7 @@
 </p>
     
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C566A&height=120&section=footer" alt="capsule render">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C566A&height=120&section=footer" alt="capsule render footer">
 </div>
 
 <div align="center">
