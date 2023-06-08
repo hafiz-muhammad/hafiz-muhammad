@@ -44,7 +44,7 @@
 
 <hr>
 
-<h2 align="center">Gists</h2>
+<h2 align="center">📋 Gists</h2>
 
 <p align="center">
   <a href="https://gist.github.com/hafiz-muhammad">
