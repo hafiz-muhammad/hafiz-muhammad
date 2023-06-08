@@ -5,68 +5,12 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&background=2e3440&center=true&vCenter=true&center=true&vCenter=true&width=1100&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
 
 <hr>
-
-<!-- <img align="center" height="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47q641khfg91am7sfydtn4rcbgvpi9xspkkm6rotxx&rid=giphy.gif&ct=g"> -->
-
-<!-- <h2 align="center">🌱 I’m Currently Learning</h2>
-
-<p align="center"> 
-  <a href="">
-    <img height="50" src="" alt="">
-  </a>
-  
-  <a href="">
-    <img height="50" src="" alt="">
-  </a>
-  
-  <a href="">
-    <img height="50" src="" alt="">
-  </a>
-</p>
-    
-<hr> -->
     
 <h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Python.png" alt="Python">
-  </a>
-  
-  <a href="https://html.spec.whatwg.org/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/HTML5.png" alt="HTML5">
-  </a>
-  
-  <a href="https://www.w3.org/TR/CSS/#css">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/CSS.png" alt="CSS">
-  </a>
-  
-  <a href="https://getfedora.org/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Fedora.png" alt="Fedora">
-  </a>
-  
-  <a href="https://www.raspberrypi.org/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Raspberry-Pi.png" alt="Raspberry Pi">
-  </a>
-  
-  <a href="https://www.kernel.org/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Tux.png" alt="Tux">
-  </a>
-  
-  <a href="https://alacritty.org/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Alacritty.png" alt="Alacritty">
-  </a>
-  
-  <a href="https://github.com/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Octocat.png" alt="Octocat">
-  </a>
-  
-  <a href="https://vscodium.com/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/VSCodium.png" alt="VSCodium">
-  </a>
-  
-  <a href="https://helix-editor.com/">
-    <img height="50" src="https://github.com/hafiz-muhammad/hafiz-muhammad/blob/main/png-files/Helix.png" alt="Helix">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,python,bash,linux,raspberrypi,github," />
   </a>
 </p>
 
