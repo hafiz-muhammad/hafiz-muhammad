@@ -23,8 +23,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=gotham" alt="Activity Graph">
 </p>
 
-<hr>
-
 <h2 align="center">💻 Technologies</h2>
 
 <div align="center">
@@ -39,8 +37,6 @@
 
 </div>
 
-<hr>
-
 <h2 align="center">📋 Gists</h2>
 
 <p align="center">
@@ -49,12 +45,8 @@
   </a>
 </p>
 
-<hr>
-
 <h2 align="center">✨ GitHub Recognition</h2>
 <span>GitHub Community:</span> https://github.com/orgs/community/discussions/128090
-
-<hr>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&style=for-the-badge&label=Profile+views&color=blue" alt="Profile Views">
