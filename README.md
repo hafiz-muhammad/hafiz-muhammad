@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://gist.github.com/hafiz-muhammad">
-    <img src="https://gists-readme.yizack.com/api?user=hafiz-muhammad&title=My+Gists&n=30" alt="Gist List Card">
+    <img src="https://gists-readme.yizack.com/api?user=hafiz-muhammad&title=My+Gists&n=30&theme=dark" alt="Gist List Card">
   </a>
 </p>
 
