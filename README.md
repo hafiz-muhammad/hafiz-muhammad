@@ -48,6 +48,8 @@
 <h2 align="center">✨ GitHub Recognition</h2>
 <span>GitHub Community:</span> https://github.com/orgs/community/discussions/128090
 
+<hr>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hafiz-muhammad&style=for-the-badge&label=Profile+views&color=blue" alt="Profile Views">
 </div>
