@@ -21,7 +21,7 @@
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord" alt="Activity Graph">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib">
+ <!-- <img src="profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contrib"> -->
 </p>
 
 <hr>
