@@ -33,7 +33,7 @@
 | Text Editors & IDEs | ![VSCodium](https://img.shields.io/badge/vscodium-0078D4?style=for-the-badge&Color=white) ![Geany](https://img.shields.io/badge/geany-FFD43B?style=for-the-badge) ![Helix Editor](https://img.shields.io/badge/helix%20editor-C4C1F0?style=for-the-badge) |
 | Version Control | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | Terminal        | ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
-| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![GNU Bash](https://img.shields.io/badge/DietPi-9CCC00?style=for-the-badge&logo=Raspberry%20Pi&logoColor=black) ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=whit) |
+| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=whit) |
 
 </div>
 
