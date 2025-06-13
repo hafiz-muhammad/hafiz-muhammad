@@ -35,7 +35,6 @@
 
 <img src="assets/gradient-line.gif" width="1000" alt="separator" />
 
-
 <br>
 
 <p align="center">
@@ -75,7 +74,7 @@
 
 <br>
 
-<img src=".github/assets/gradient-line.gif" width="1000" alt="separator">
+<img src="assets/gradient-line.gif" width="1000" alt="separator" />
 
 <br>
 
