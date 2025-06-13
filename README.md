@@ -1,29 +1,54 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=2AA889&background=0C1014&center=true&vCenter=true&center=true&vCenter=true&width=1100&height=100&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Hafiz!">
-
-<hr>
-    
-<h2 align="center">🔎 Profile Details</h2>
-    
 <p align="center">
-  <img heigth="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-muhammad&theme=gotham" alt="Profile Details Card">
+  <div align=center>
+    <img src="assets/github-header-image.png" width="1000" alt="GitHub Profile Header">
+  </div>
 </p>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<br>
+
+<img src="assets/gradient-line.gif" width="1000" alt="separator">
+
+<br>
+    
+<h2 align="center">
+  <img src="assets/bar-chart.png" width="45" height="45" alt="Bar Chart">
+  My Statistics
+</h2>
 
 <p align="center">
   <div align=center>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Card">
-    <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats Card">
-    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=gotham&utcOffset=8" alt="Commit Card">
-    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=gotham" alt="Top Languages by Commit Card">
-    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=gotham" alt="Top Languages by Repo Card">
-    <img src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=dark_dimmed&column=7" alt="Stat Trophies">
+    <img width="825" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-muhammad&theme=nord_dark" alt="Profile Details Card">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=hafiz-muhammad&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Card">
+    <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=hafiz-muhammad&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8" alt="Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Repo Card">
+    <img width="825" src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord&column=7" alt="Stat Trophies">
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=gotham" alt="Activity Graph">
+  <div align="center">
+    <img width="825" src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-muhammad&hide_border=true&theme=nord" alt="Activity Graph">
+  </div>
 </p>
 
-<h2 align="center">💻 Technologies</h2>
+<br>
+
+<img src="assets/gradient-line.gif" width="1000" alt="separator" />
+
+
+<br>
+
+<p align="center">
+  <a>
+    <img height="160" src="assets/octocat-1749589558353.png" alt="Octocat">
+  </a><br>
+  <sub>This Octocat was made using <a href="https://myoctocat.com/">myoctocat.com</a>. I'm not affiliated with GitHub in any way.</sub>
+</p>
+
+<h2 align="center">
+  <img src="assets/technologist.png" width="45" height="45" alt="Bar Chart">
+  Technologies
+</h2>
 
 <div align="center">
   
@@ -37,11 +62,23 @@
 
 </div>
 
-<h2 align="center">📋 Gists</h2>
+<h2 align="center">
+  <img src="assets/clipboard.png" width="45" height="45" alt="Bar Chart">
+  Gists
+</h2>
 
 <p align="center">
   <a href="https://gist.github.com/hafiz-muhammad">
-    <img src="https://gists-readme.yizack.com/api?user=hafiz-muhammad&title=My+Gists&n=30&theme=dark" alt="Gist List Card">
+    <img width="591" src="https://gists-readme.yizack.com/api?user=hafiz-muhammad&title=My+Gists&n=30&theme=dark" alt="Gist List Card">
   </a>
 </p>
 
+<br>
+
+<img src=".github/assets/gradient-line.gif" width="1000" alt="separator">
+
+<br>
+
+<p align="center">
+  <img width="1000" src="https://github-readme-quotes-bay.vercel.app/quote?theme=nord&animation=default&layout=default&font=default&quoteType=motivational" alt="Quotes">
+</p>
