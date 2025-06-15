@@ -37,29 +37,55 @@
 
 <br>
 
-<p align="center">
-  <a>
-    <img height="160" src="assets/octocat-1749589558353.png" alt="Octocat">
-  </a><br>
-  <sub>This Octocat was made using <a href="https://myoctocat.com/">myoctocat.com</a>. I'm not affiliated with GitHub in any way.</sub>
-</p>
-
 <h2 align="center">
   <img src="assets/technologist.png" width="45" height="45" alt="Bar Chart">
   Technologies
 </h2>
 
-<div align="center">
-  
-| Category         | Technologies                                              |
-|------------------|-----------------------------------------------------------|
-| Languages        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| Text Editors & IDEs | ![VSCodium](https://img.shields.io/badge/vscodium-0078D4?style=for-the-badge&Color=white) ![Geany](https://img.shields.io/badge/geany-FFD43B?style=for-the-badge) ![Helix Editor](https://img.shields.io/badge/helix%20editor-C4C1F0?style=for-the-badge) |
-| Version Control | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| Terminal        | ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
-| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=whit) |
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <a>
+          <img height="200" src="assets/octocat-1749589558353.png" alt="Octocat">
+        </a><br>
+      </p>
+      <sub>
+        This Octocat was made using <a href="https://myoctocat.com/">myoctocat.com</a>. I'm not affiliated with GitHub in any way.
+      </sub>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Category</th>
+          <th>Technologies</th>
+        </tr>
+        <tr>
+          <td>Languages</td>
+          <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=CSS3> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></td>
+        </tr>
+        <tr>
+          <td>Text Editors & IDEs</td>
+          <td><img src="https://img.shields.io/badge/vscodium-0078D4?style=for-the-badge&Color=white" alt="VSCodium"> <img src="https://img.shields.io/badge/geany-FFD43B?style=for-the-badge" alt="Geany"> <img src="https://img.shields.io/badge/helix%20editor-C4C1F0?style=for-the-badge" alt="Helix Editor"></td>
+        </tr>
+        <tr>
+          <td>Version Control</td>
+          <td><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></td> 
+        </tr>
+        <tr>
+          <td>Terminal</td>
+          <td><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNU Bash"> <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" alt="Alacritty"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+        </tr>
+        <tr>
+          <td>Operating Systems</td>
+          <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" > <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft Windows"></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br>
 
 <h2 align="center">
   <img src="assets/clipboard.png" width="45" height="45" alt="Bar Chart">
