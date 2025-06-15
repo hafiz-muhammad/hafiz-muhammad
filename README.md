@@ -50,9 +50,11 @@
           <img height="200" src="assets/octocat-1749589558353.png" alt="Octocat">
         </a><br>
       </p>
-      <sub>
-        This Octocat was made using <a href="https://myoctocat.com/">myoctocat.com</a>. I'm not affiliated with GitHub in any way.
-      </sub>
+      <p align="center">
+        <sub>
+          This Octocat was made using <a href="https://myoctocat.com/">myoctocat.com</a>. I'm not affiliated with GitHub in any way.
+        </sub>
+      </p>
     </td>
     <td>
       <table>
