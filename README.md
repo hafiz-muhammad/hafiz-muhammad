@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="assets/gradient-line.gif" width="1000" alt="separator">
+<img src="assets/gradient-line.svg" width="1000" height="6" alt="Separator">
 
 <br>
     
@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="assets/gradient-line.gif" width="1000" alt="separator" />
+<img src="assets/gradient-line.svg" width="1000" height="6" alt="Separator">
 
 <br>
 
@@ -126,7 +126,7 @@
 
 <br>
 
-<img src="assets/gradient-line.gif" width="1000" alt="separator" />
+<img src="assets/gradient-line.svg" width="1000" height="6" alt="Separator">
 
 <br>
 
