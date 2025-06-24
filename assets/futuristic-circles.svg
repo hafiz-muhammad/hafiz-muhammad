@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5e81ac"/>
+      <stop offset="100%" stop-color="#88c0d0"/>
+    </linearGradient>
+    
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#88c0d0" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#81a1c1" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#5e81ac" stop-opacity="0"/>
+    </radialGradient>
+    
+    <linearGradient id="pulseGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d08770"/>
+      <stop offset="100%" stop-color="#5e81ac"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="0%;100%;0%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;0%;100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="100%;0%;100%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    
+    <linearGradient id="orangeAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d08770"/>
+      <stop offset="100%" stop-color="#88c0d0"/>
+    </linearGradient>
+    
+    <linearGradient id="snowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e5e9f0"/>
+      <stop offset="100%" stop-color="#d8dee9"/>
+    </linearGradient>
+    
+    <!-- Filters -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    
+    <filter id="smallGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    
+    <!-- Patterns -->
+    <pattern id="techPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="20" height="20" fill="none"/>
+      <path d="M0,10 L20,10 M10,0 L10,20" stroke="#88c0d0" stroke-width="1.2" opacity="0.3"/>
+      <animateTransform attributeName="patternTransform" type="rotate" from="0" to="360" dur="120s" repeatCount="indefinite"/>
+    </pattern>
+    
+    <pattern id="circuitPattern" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="30" height="30" fill="none"/>
+      <path d="M0,15 L10,15 M15,0 L15,10 M20,15 L30,15 M15,20 L15,30" stroke="#88c0d0" stroke-width="1.2" opacity="0.4"/>
+      <animateTransform attributeName="patternTransform" type="rotate" from="0" to="-360" dur="180s" repeatCount="indefinite"/>
+    </pattern>
+    
+    <pattern id="nordPattern" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="25" height="25" fill="none"/>
+      <path d="M0,12.5 L25,12.5 M12.5,0 L12.5,25" stroke="#eceff4" stroke-width="1" opacity="0.3"/>
+      <animateTransform attributeName="patternTransform" type="rotate" from="0" to="360" dur="150s" repeatCount="indefinite"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="500" fill="transparent"/>
+  
+  <!-- MAIN CIRCLE (CENTER) -->
+  <!-- Dark background circle -->
+  <circle cx="600" cy="250" r="200" fill="#2e3440" opacity="0.75"/>
+  
+  <!-- Center core glow with pulsating animation -->
+  <circle cx="600" cy="250" r="30" fill="url(#centerGlow)" opacity="0.9" filter="url(#glow)">
+    <animate attributeName="r" values="30;35;30;25;30" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.7;0.9;0.8;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Inner core ring with wave effect -->
+  <circle cx="600" cy="250" r="45" fill="none" stroke="#88c0d0" stroke-width="5" opacity="0.9" filter="url(#smallGlow)">
+    <animate attributeName="stroke-width" values="5;7;5;6;5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="45;48;45;43;45" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Dynamic tech rings with different rotation speeds and directions -->
+  
+  <!-- Ring 1: Fast counter-clockwise - FIXED DASH PATTERN -->
+  <circle cx="600" cy="250" r="65" fill="none" stroke="#81a1c1" stroke-width="3.5" stroke-dasharray="3,3" opacity="0.8">
+    <animate attributeName="stroke-width" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.5;0.8" dur="4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="-360 600 250" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 2: Medium speed clockwise - SIMPLIFIED DASH PATTERN -->
+  <circle cx="600" cy="250" r="85" fill="none" stroke="#d08770" stroke-width="4" stroke-dasharray="10,10" opacity="0.7">
+    <animate attributeName="stroke-width" values="4;5.5;4" dur="15s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="20s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 3: Slow counter-clockwise with circuit pattern -->
+  <circle cx="600" cy="250" r="105" fill="none" stroke="url(#circuitPattern)" stroke-width="15" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.7;0.5;0.3;0.5" dur="10s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="-360 600 250" dur="60s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 4: Oscillating ring that changes direction - EVENED DASH PATTERN -->
+  <circle cx="600" cy="250" r="125" fill="none" stroke="#88c0d0" stroke-width="4.5" stroke-dasharray="20,20" opacity="0.6">
+    <animate attributeName="stroke-width" values="4.5;6;4.5;3;4.5" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="125;130;125;120;125" dur="15s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 600 250; 30 600 250; 0 600 250; -30 600 250; 0 600 250" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 5: Tech pattern ring with slow rotation -->
+  <circle cx="600" cy="250" r="145" fill="none" stroke="url(#nordPattern)" stroke-width="15" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.4;0.6;0.5;0.6" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 600 250" to="0 600 250" dur="90s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 6: Fast flickering segments - EVENED DASH PATTERN -->
+  <g opacity="0.7">
+    <path d="M600,105 A145,145 0 0,1 745,250" fill="none" stroke="#d08770" stroke-width="5" stroke-dasharray="10,10">
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="15s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M600,395 A145,145 0 0,1 455,250" fill="none" stroke="#d08770" stroke-width="5" stroke-dasharray="10,10">
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="1s" begin="0.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="15s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Ring 7: Outer tech ring that pulses - SIMPLIFIED DASH PATTERN -->
+  <circle cx="600" cy="250" r="165" fill="none" stroke="#8fbcbb" stroke-width="4" stroke-dasharray="20,10" opacity="0.6" filter="url(#smallGlow)">
+    <animate attributeName="stroke-width" values="4;5.5;4;3;4" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="165;170;165;160;165" dur="12s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="-360 600 250" dur="40s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 8: Outermost faint ring -->
+  <circle cx="600" cy="250" r="190" fill="none" stroke="#5e81ac" stroke-width="3.5" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.2;0.4;0.3;0.4" dur="10s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 600 250" to="0 600 250" dur="120s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Additional light-colored ring - FIXED EVEN DASH PATTERN -->
+  <circle cx="600" cy="250" r="180" fill="none" stroke="#d8dee9" stroke-width="2" stroke-dasharray="4,4" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.15;0.35" dur="5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="70s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Central tech elements -->
+  <g>
+    <!-- Central ring that pulses -->
+    <circle cx="600" cy="250" r="20" fill="none" stroke="#eceff4" stroke-width="4.5" opacity="0.9">
+      <animate attributeName="r" values="20;22;20;18;20" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="4.5;6;4.5;3;4.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Small inner rings -->
+    <circle cx="600" cy="250" r="12" fill="none" stroke="#88c0d0" stroke-width="3" opacity="0.8">
+      <animate attributeName="r" values="12;13;12;11;12" dur="2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Dynamic arcs that sweep around - EVENED DASH PATTERNS -->
+  <g fill="none" stroke="url(#pulseGlow)" stroke-width="4" opacity="0.7" filter="url(#smallGlow)">
+    <path d="M600,150 A100,100 0 0,1 700,250" stroke-dasharray="15,15">
+      <animate attributeName="stroke-dasharray" values="15,15;15,15" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="12s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M600,350 A100,100 0 0,1 500,250" stroke-dasharray="15,15">
+      <animate attributeName="stroke-dasharray" values="15,15;15,15" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="-360 600 250" dur="12s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M500,250 A100,100 0 0,1 600,150" stroke-dasharray="10,10">
+      <animate attributeName="stroke-dasharray" values="10,10;10,10" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="18s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M700,250 A100,100 0 0,1 600,350" stroke-dasharray="10,10">
+      <animate attributeName="stroke-dasharray" values="10,10;10,10" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="-360 600 250" dur="18s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- Occasional light pulses -->
+  <circle cx="600" cy="250" r="185" fill="none" stroke="#eceff4" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0.3;0" dur="5s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="r" values="185;195;185" dur="5s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+
+  <!-- LEFT SMALLER CIRCLE - VERY FAR SPACED FROM MAIN CIRCLE -->
+  <!-- Dark background circle -->
+  <circle cx="100" cy="250" r="80" fill="#2e3440" opacity="0.75"/>
+  
+  <!-- Center core glow with pulsating animation -->
+  <circle cx="100" cy="250" r="12" fill="url(#centerGlow)" opacity="0.9" filter="url(#glow)">
+    <animate attributeName="r" values="12;14;12;10;12" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.7;0.9;0.8;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Inner core ring with wave effect -->
+  <circle cx="100" cy="250" r="18" fill="none" stroke="#88c0d0" stroke-width="2" opacity="0.9" filter="url(#smallGlow)">
+    <animate attributeName="stroke-width" values="2;3;2;2.5;2" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="18;19;18;17;18" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 1: Fast counter-clockwise - FIXED DASH PATTERN -->
+  <circle cx="100" cy="250" r="30" fill="none" stroke="#81a1c1" stroke-width="1.5" stroke-dasharray="2,2" opacity="0.8">
+    <animate attributeName="stroke-width" values="1.5;2;1.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.5;0.8" dur="4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 100 250" to="-360 100 250" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 2: Medium speed clockwise - SIMPLIFIED DASH PATTERN -->
+  <circle cx="100" cy="250" r="40" fill="none" stroke="#d08770" stroke-width="1.5" stroke-dasharray="5,5" opacity="0.7">
+    <animateTransform attributeName="transform" type="rotate" from="0 100 250" to="360 100 250" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 3: Solid color instead of pattern with diagonal lines -->
+  <circle cx="100" cy="250" r="60" fill="none" stroke="#5e81ac" stroke-width="6" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.4;0.6;0.5;0.6" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 4: Outer tech ring that pulses - EVENED DASH PATTERN -->
+  <circle cx="100" cy="250" r="72" fill="none" stroke="#8fbcbb" stroke-width="2" stroke-dasharray="8,8" opacity="0.6" filter="url(#smallGlow)">
+    <animate attributeName="stroke-width" values="2;2.5;2;1.5;2" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="72;74;72;70;72" dur="12s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 100 250" to="-360 100 250" dur="40s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- RIGHT SMALLER CIRCLE - VERY FAR SPACED FROM MAIN CIRCLE -->
+  <!-- Dark background circle -->
+  <circle cx="1100" cy="250" r="80" fill="#2e3440" opacity="0.75"/>
+  
+  <!-- Center core glow with pulsating animation -->
+  <circle cx="1100" cy="250" r="12" fill="url(#centerGlow)" opacity="0.9" filter="url(#glow)">
+    <animate attributeName="r" values="12;14;12;10;12" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.7;0.9;0.8;0.9" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Inner core ring with wave effect -->
+  <circle cx="1100" cy="250" r="18" fill="none" stroke="#88c0d0" stroke-width="2" opacity="0.9" filter="url(#smallGlow)">
+    <animate attributeName="stroke-width" values="2;3;2;2.5;2" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="18;19;18;17;18" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 1: Fast counter-clockwise - FIXED DASH PATTERN -->
+  <circle cx="1100" cy="250" r="30" fill="none" stroke="#81a1c1" stroke-width="1.5" stroke-dasharray="2,2" opacity="0.8">
+    <animate attributeName="stroke-width" values="1.5;2;1.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.5;0.8" dur="4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 1100 250" to="-360 1100 250" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 2: Medium speed clockwise - SIMPLIFIED DASH PATTERN -->
+  <circle cx="1100" cy="250" r="40" fill="none" stroke="#d08770" stroke-width="1.5" stroke-dasharray="5,5" opacity="0.7">
+    <animateTransform attributeName="transform" type="rotate" from="0 1100 250" to="360 1100 250" dur="15s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 3: Solid color instead of pattern with diagonal lines -->
+  <circle cx="1100" cy="250" r="60" fill="none" stroke="#5e81ac" stroke-width="6" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.4;0.6;0.5;0.6" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Ring 4: Outer tech ring that pulses - EVENED DASH PATTERN -->
+  <circle cx="1100" cy="250" r="72" fill="none" stroke="#8fbcbb" stroke-width="2" stroke-dasharray="8,8" opacity="0.6" filter="url(#smallGlow)">
+    <animate attributeName="stroke-width" values="2;2.5;2;1.5;2" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="72;74;72;70;72" dur="12s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 1100 250" to="-360 1100 250" dur="40s" repeatCount="indefinite"/>
+  </circle>
+</svg>
