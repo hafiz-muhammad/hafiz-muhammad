@@ -1,0 +1,21 @@
+<svg width="900" height="8" viewBox="0 0 900 1" xmlns="http://www.w3.org/2000/svg" style="display:block">
+  <defs>
+    <linearGradient id="nord-gradient" x1="0" y1="0" x2="240" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"    stop-color="#bf616a"/>
+      <stop offset="16.6%" stop-color="#d08770"/>
+      <stop offset="33.3%" stop-color="#ebcb8b"/>
+      <stop offset="50%"   stop-color="#a3be8c"/>
+      <stop offset="66.6%" stop-color="#b48ead"/>
+      <stop offset="83.3%" stop-color="#5e81ac"/>
+      <stop offset="100%"  stop-color="#bf616a"/>
+    </linearGradient>
+    <pattern id="moving-gradient" patternUnits="userSpaceOnUse" width="240" height="8" patternTransform="translate(0,0)">
+      <rect x="0" y="0" width="240" height="8" fill="url(#nord-gradient)" shape-rendering="crispEdges"/>
+      <animateTransform attributeName="patternTransform"
+        type="translate"
+        from="0,0" to="240,0"
+        dur="0.5s" repeatCount="indefinite"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="900" height="8" fill="url(#moving-gradient)" shape-rendering="crispEdges" />
+</svg>
