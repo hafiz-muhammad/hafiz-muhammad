@@ -136,4 +136,4 @@
 
 <hr>
 
-<img src="assets/futuristic-circles.svg" alt="Futuristic Circles" width="1000" height="300">
+<img src="assets/futuristic-circles.svg" alt="Futuristic Circles" width="1000" height="250">
