@@ -134,6 +134,6 @@
   <img width="1000" src="https://github-readme-quotes-bay.vercel.app/quote?theme=nord&animation=default&layout=default&font=default&quoteType=motivational" alt="Quotes">
 </p>
 
-<hr>
+<img src="assets/gradient-line.svg" width="1000" height="6" alt="Separator">
 
 <img src="assets/futuristic-circles.svg" alt="Futuristic Circles" width="1000" height="250">
