@@ -43,14 +43,7 @@
 </h2>
 
 <p align="center">
-  <a>
-    <img height="200" src="assets/octocat-1749589558353.png" alt="Octocat">
-  </a>
-  <br>
-  <sub>
-    This Octocat was made using <a href="https://myoctocat.com/">myoctocat.com</a>.
-    I'm not affiliated with GitHub in any way.
-  </sub>
+  <img height="200" src="assets/octocat-1749589558353.png" title="This Octocat was made using myoctocat.com." alt="Octocat">
 </p>
 
 <div align="center">
