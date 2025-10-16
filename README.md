@@ -1,6 +1,6 @@
 <p align="center">
   <div align=center>
-    <img src="assets/github-header-image.png" width="1000" alt="GitHub Profile Header">
+    <img src="assets/github-header-banner.png" width="1000" title="The Octocat was made using myoctocat.com" alt="GitHub Profile Header Banner">
   </div>
 </p>
 
@@ -41,10 +41,6 @@
   <img src="assets/technologist.png" width="45" height="45" alt="Bar Chart">
   Technologies
 </h2>
-
-<p align="center">
-  <img height="200" src="assets/octocat-1749589558353.png" title="This Octocat was made using myoctocat.com." alt="Octocat">
-</p>
 
 <div align="center">
   <table>
