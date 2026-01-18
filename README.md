@@ -23,7 +23,7 @@
     <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafiz-muhammad&theme=nord_dark&utcOffset=8" alt="Commit Card">
     <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Commit Card">
     <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafiz-muhammad&theme=nord_dark" alt="Top Languages by Repo Card">
-    <img width="825" src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord&column=7" alt="Stat Trophies">
+    <!-- <img width="825" src="https://github-profile-trophy.vercel.app/?username=hafiz-muhammad&theme=nord&column=7" alt="Stat Trophies"> -->
   </div>
   <br>
   <div align="center">
